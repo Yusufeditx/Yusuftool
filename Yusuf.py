@@ -275,7 +275,7 @@ print('''\033[1;32m[#] _ Tool Fucker == > [ YUSUF D09  ]\n''')
 print("\033[1;36;40m", end = "")        
 password = input("\033[1;36m[+] P9SS D9L T00L K9  :: ")
 
-if password == kameena0:
+if password == kameena7:
 
     token_file = input("[+] T0K39 F1L3 D9L :: ")
     print('\n')
